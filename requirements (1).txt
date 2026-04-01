@@ -1,0 +1,4 @@
+funasr
+torch
+pyaudio
+numpy
